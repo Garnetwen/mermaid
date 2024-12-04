@@ -8,6 +8,11 @@ https://www.figma.com/deck/fW3Yhz0YwP61GmopzyIxuX/mermaidDevPlan?node-id=1-136
 My goal: trying to generate different image in various style without seemingly "AI generated" 
 
 Trying to understand how comfyUI works： 
-tutorial： 
+install tutorial: 
+https://github.com/comfyanonymous/ComfyUI
+https://developer.apple.com/metal/pytorch/
 
+I download the requirements and I tried to find models for my pictures.
+https://civitai.com/models/887328/dredge-style-pony
+I like this style, trying to figure how to use it:)
 <h1>eating
